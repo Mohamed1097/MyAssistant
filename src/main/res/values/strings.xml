@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyAssistant</string>
+    <string name="tab_text_1">Notes</string>
+    <string name="tab_text_2">Tasks</string>
+    <string name="tab_text_3">SleepTracker</string>
+    <string name="tab_text_4">Workout</string>
+    <string name="tab_text_5">Pedometer</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
